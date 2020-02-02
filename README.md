@@ -22,6 +22,7 @@ vi is the text editor that comes with UNIX operating systems that allows you to 
 11. **using up and down arrow for history** allows you to press the up arrow key from the command prompt to see the most recently used command and each additional press moves further back into history, and the down arrow key moves forward in the history file.
 ## gitFlow and Git commands and terminology
 The gitFlow Workflow is a lightweight branch based workflow built around the core Git commands used by teams around the globe. There are six steps to the Workflow. 1) Create a branch, 2) Add commits, 3) open a pull request, 4) Discuss and review code, 5) Merge, and 6) Deploy.
+## gitflow illustration ##
 ![GitFlow Diagram](https://datasift.github.io/gitflow/GitFlowFeatureBranches.png)
 1. **git init** - initializes a brand new GIT repository and begins tracking on existing directory.
 2. **git clone** - creates a local copy or Clone of a project that already exists remotely. 
