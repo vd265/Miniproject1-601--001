@@ -40,3 +40,4 @@ The gitFlow Workflow is a lightweight branch based workflow built around the cor
 1. https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 2. https://datasift.github.io/gitflow/IntroducingGitFlow.html
 3. https://www.git-tower.com/learn/git/glossary
+## Changelog ##
