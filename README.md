@@ -42,117 +42,34 @@ The gitFlow Workflow is a lightweight branch based workflow built around the cor
 3. https://www.git-tower.com/learn/git/glossary
 4. https://guides.github.com/features/mastering-markdown
 ## Changelog ##
-Merge pull request #2 from vd265/Definitions-1 … 
- 
-vd265 committed 28 minutes ago 
-Verified  
-
-b417ec5 
-
-Update README.md 
- 
-vd265 committed 28 minutes ago 
-Verified  
-
-05159c7 
-
-updated 
- 
-vd265 committed 33 minutes ago 
-Verified  
-
-c38a0e6 
-
-update gitflo definition 
- 
-vd265 committed 36 minutes ago 
-Verified  
-
-03f2650 
-
-updated Gitflow defintion 
- 
-vd265 committed 37 minutes ago 
-Verified  
-
-b877ef8 
-
-update Gitflow commands 
- 
-vd265 committed 40 minutes ago 
-Verified  
-
-e550065 
-
-Update GitFlow 
- 
-vd265 committed 1 hour ago 
-Verified  
-
-520d81c 
-
-Update Commands defintion 
- 
-vd265 committed 1 hour ago 
-Verified  
-
-101a6a8 
-
-update defintion 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-8136fdd 
-
-update definition 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-773359b 
-
-update defintions 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-8e997db 
-
-Update cd definition 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-06d4b6e 
-
-Merge pull request #1 from vd265/Definitions-1 … 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-ff8305f 
-
-Updated cd command defintion 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-165fd0a 
-
-Task: Created definition for cd 
- 
-vd265 committed 3 hours ago 
-Verified  
-
-b8a6b56 
-
-Initial commit 
- 
-vd265 committed 5 hours ago 
-Verified  
-
-8df8412 
-
-Newer
-Older
+1. Merge pull request #2 from vd265/Definitions-1 … 
+2. vd265 committed 28 minutes ago 
+3. Update README.md 
+4. vd265 committed 28 minutes ago 
+5. vd265 committed 33 minutes ago 
+6. update gitflo definition 
+7. vd265 committed 36 minutes ago 
+8. updated Gitflow defintion 
+9. vd265 committed 37 minutes ago 
+10. update Gitflow commands 
+11. vd265 committed 40 minutes ago 
+12. Update GitFlow 
+13. vd265 committed 1 hour ago 
+14. Update Commands defintion 
+15. vd265 committed 1 hour ago 
+16. update defintion 
+17. vd265 committed 3 hours ago 
+18. update definition 
+19. vd265 committed 3 hours ago 
+20. update defintions 
+21. vd265 committed 3 hours ago 
+22. Update cd definition 
+23. vd265 committed 3 hours ago 
+24. Merge pull request #1 from vd265/Definitions-1 … 
+25. vd265 committed 3 hours ago 
+26. Updated cd command defintion 
+27. vd265 committed 3 hours ago 
+28. Task: Created definition for cd 
+29. vd265 committed 3 hours ago 
+30. Initial commit 
+31. vd265 committed 5 hours ago
