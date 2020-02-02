@@ -22,8 +22,6 @@ vi is the text editor that comes with UNIX operating systems that allows you to 
 11. **using up and down arrow for history** allows you to press the up arrow key from the command prompt to see the most recently used command and each additional press moves further back into history, and the down arrow key moves forward in the history file.
 ## gitFlow and Git commands and terminology
 The gitFlow Workflow is a lightweight branch based workflow built around the core Git commands used by teams around the globe. There are six steps to the Workflow. 1) Create a branch, 2) Add commits, 3) open a pull request, 4) Discuss and review code, 5) Merge, and 6) Deploy.
-## gitflow illustration ##
-![GitFlow Diagram](https://datasift.github.io/gitflow/GitFlowFeatureBranches.png)
 1. **git init** - initializes a brand new GIT repository and begins tracking on existing directory.
 2. **git clone** - creates a local copy or Clone of a project that already exists remotely. 
 3. **git fork** - is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
@@ -36,6 +34,8 @@ The gitFlow Workflow is a lightweight branch based workflow built around the cor
 10. **git remote** - helps you to manage connections to remote repositories, allowing you to show which are currently connected, but also add new connections or remove existing ones.
 11. **git status** - shows the status of changes as untracked, modified or staged.
 12. **Master Branch** - in git, master is the naming convention for a branch, it is a repository default branch. When developers make changes to a branch and a merge is executed the changes in that featured branch combune their changes to the master branch for deployment.
+## gitflow illustration ##
+![GitFlow Diagram](https://datasift.github.io/gitflow/GitFlowFeatureBranches.png)
 ## Sources ##
 1. https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 2. https://datasift.github.io/gitflow/IntroducingGitFlow.html
