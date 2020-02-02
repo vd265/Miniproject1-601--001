@@ -20,3 +20,16 @@ The **file paths** in Linux use directories or folders. All files on the compute
 **using the tab key to complete file paths** on a command line allows you to save time when typing in long path and filenames by simply typing in the first few letter and then press TAB to automatically complete either the folder or filename. It will cycle through each similar name eac time you press TAB.
 **using up and down arrow for history** allows you to press the up arrow key from the command prompt to see the most recently used command and each additional press moves further back into history, and the down arrow key moves forward in the history file.
 ## gitFlow and Git commands and terminology
+The gitFlow Workflow is a lightweight branch based workflow built around the core Git commands used by teams around the globe. There are six steps to the Workflow. 1) Create a branch, 2) Add commits, 3) open a pull request, 4) Discuss and review code, 5) Merge, and 6) Deploy.
+**git init** - initializes a brand new GIT repository and begins tracking on existing directory.
+**git clone** - creates a local copy or Clone of a project that already exists remotely. 
+**git fork** - is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
+**git branch** - shows the branches being worked on locally.
+**git commit** - saves the snapshot to the project history and completes the change tracking process.
+**git merge** - merges lines of development together. This command is typically used to combine changes made on two distinct branches.
+**git checkout** - allows you to navigate between the branches created by git branch. Checking out a branch updates the files in the working directory to match the version stored in that branch.
+**git push** - updates the remote repositorywith any commits made locally to a branch.
+**git pull** - updates the local line of development with updates from ts remote counterpart.
+**git remote** - helps you to manage connections to remote repositories, allowing you to show which are currently connected, but also add new connections or remove existing ones.
+**git status** - shows the status of changes as untracked, modified or staged.
+**Master Branch** - in git, master is the naming convention for a branch, it is a repository default branch. When developers make changes to a branch and a merge is executed the changes in that featured branch combune their changes to the master branch for deployment.
